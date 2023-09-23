@@ -1,0 +1,1 @@
+git pull operation will donwload the modified data and merge it with existing branch structure.
